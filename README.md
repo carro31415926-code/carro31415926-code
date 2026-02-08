@@ -1,16 +1,31 @@
-## Hi there 👋
+# 💫 About Me:
+### Hi there 👋 I'm Carro, a passionate developer from Earth.
 
-<!--
-**carro31415926-code/carro31415926-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&width=435&lines=Coding+the+future;Learning+every+day;Building+cool+stuff" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Awesome Projects**
+- 🌱 I’m currently learning **Advanced Algorithms & AI**
+- 💬 Ask me about **Python, Web Dev, or Math**
+- 📫 How to reach me: **your-email@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=carro31415926-code&show_icons=true&theme=transparent" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carro31415926-code&layout=compact&theme=transparent" alt="top langs" />
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
